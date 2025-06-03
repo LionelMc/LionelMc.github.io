@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Esperanza de Vida al Nacer",
+    "description": "Identificación de factores clave que influyen en la esperanza de vida en América y Oceanía usando datos del Banco Mundial y la OMS. Aplicamos análisis predictivo con modelos de machine learning y visualizamos los hallazgos en Power BI y Streamlit.",
+    "repository": "https://github.com/LionelMc/PG_DE_DA_ML---Esperanza_Vida_Nacer",
+    "liveDemo": "",
+    "image": "https://imgur.com/yNZZoTc.jpg",
+    "technologies": ["Python", "Azure", "Power BI", "Streamlit", "Scrum"]
+  },
+  {
+    "title": "Sistema de Recomendación de Películas",
+    "description": "Transformación de un dataset desordenado de películas en un sistema de recomendación funcional. Se aplicó ETL y Machine Learning con Python para sugerir películas similares, y la solución final se desplegó como una API usando FastAPI.",
+    "repository": "https://github.com/LionelMc/PI_ML---Recomendacion_Peliculas",
+    "liveDemo": "",
+    "image": "https://imgur.com/wTqfhAZ.jpg",
+    "technologies": ["Python", "ETL", "MLOps", "Deployment","FastAPI"]
+  },
+  {
+    "title": "Análisis de Accidentes Aéreos",
+    "description": "Se analizó una base histórica de accidentes aéreos para identificar patrones en factores asociados, zonas críticas y tendencias. Se aplicó limpieza, transformación y visualización de datos para obtener insights clave que contribuyan a la seguridad aérea.",
+    "repository": "https://github.com/LionelMc/PI_DA---Accidentes_Aereos",
+    "liveDemo": "",
+    "image": "https://imgur.com/Oi9gB2q.jpg",
+    "technologies": ["Python", "ETL", "Streamlit", "Dashboard", "KPI"]
+  },
+  {
+    "title": "Dashboard: ONG - Potenciar Solidario",
+    "description": "Diseño de dashboards interactivos para Potenciar Solidario, enfocando el análisis en ingresos por donaciones y pagos a proveedores. Limpieza y modelado para visualizar patrones, evaluar eficiencia operativa y mejorar la transparencia financiera.",
+    "repository": "https://github.com/LionelMc/PI_DA---ONG_Potenciar",
+    "liveDemo": "",
+    "image": "https://imgur.com/ZJdJSvD.jpg",
+    "technologies": ["Google Sheets", "Looker", "Dashboard", "Data prep"]
+  }
+]
