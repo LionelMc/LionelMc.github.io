@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LionelMc.github.io/static/css/main.db3180ac.css",
-    "main.js": "/LionelMc.github.io/static/js/main.e2dfb8c3.js",
-    "index.html": "/LionelMc.github.io/index.html",
-    "main.db3180ac.css.map": "/LionelMc.github.io/static/css/main.db3180ac.css.map",
-    "main.e2dfb8c3.js.map": "/LionelMc.github.io/static/js/main.e2dfb8c3.js.map"
+    "main.css": "/static/css/main.db3180ac.css",
+    "main.js": "/static/js/main.e2dfb8c3.js",
+    "index.html": "/index.html",
+    "main.db3180ac.css.map": "/static/css/main.db3180ac.css.map",
+    "main.e2dfb8c3.js.map": "/static/js/main.e2dfb8c3.js.map"
   },
   "entrypoints": [
     "static/css/main.db3180ac.css",
